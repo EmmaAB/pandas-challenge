@@ -4,6 +4,7 @@ PANDAS Homework Assignment | Due 7/8/2020 | Data Analytics
 This Jupyter Notebook file uses PANDAS to look at two data sets for PyCity Schools and displays it in tables. Screenshots of the completed tables are in the Screenshots folder. Using the tables, the following analysis can be made:
 
 Analysis
+
 Using the tables created above, several trends are evident for PyCity Schools:
 (1) Differences in math scores are significantly more exaggerated than reading scores across the different schools. Whether the schools are evaluated by spending, size, and type, math education is more sensitive than reading.
 (2) Students have higher scores in both subjects in smaller, better-funded schools.
